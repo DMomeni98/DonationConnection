@@ -7,6 +7,11 @@ from .forms import ProductForm
 # def products(request):
 #     return render(request, "addproduct.html", {})
 # ---------------------------------------------------Temp-------------------------------------------------
+def product_page(request):
+    context = Product.objects.first()
+    list(context)
+    return render(request, "product.html", context)
+
 
 def add_product(request):
     form = ProductForm(request.POST or None)

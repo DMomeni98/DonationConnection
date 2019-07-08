@@ -9,7 +9,7 @@ class Product(models.Model):
     charity = models.CharField(max_length=200, db_index=True)
     price = models.DecimalField(max_digits=10, decimal_places=2)
     overview = models.TextField(blank=True)
-    picture = models.ImageField(upload_to='static/images/', blank=True)
+    picture = models.ImageField(upload_to='product_image', blank=True)
     available = models.BooleanField(default=True)
     created = models.DateTimeField(auto_now_add=True)
     updated = models.DateTimeField(auto_now=True)
