@@ -1,0 +1,285 @@
+<html>
+<head>
+<title>donationconnecction|free services</title>
+<!-- for-mobile-apps -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta property="og:title" content="Vide" />
+<meta name="keywords" content="web design" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- //for-mobile-apps -->
+<link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
+<!-- Custom Theme files -->
+<link href="css/style.css" rel='stylesheet' type='text/css' />
+<!-- js -->
+   <script src="js/jquery-1.11.1.min.js"></script>
+<!-- //js -->
+<!-- start-smoth-scrolling -->
+<script type="text/javascript" src="js/move-top.js"></script>
+<script type="text/javascript" src="js/easing.js"></script>
+<script type="text/javascript">
+	jQuery(document).ready(function($) {
+		$(".scroll").click(function(event){		
+			event.preventDefault();
+			$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+		});
+	});
+</script>
+<!-- start-smoth-scrolling -->
+<link href="css/font-awesome.css" rel="stylesheet"> 
+<link href='//fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+<link href='//fonts.googleapis.com/css?family=Noto+Sans:400,700' rel='stylesheet' type='text/css'>
+
+</head>
+<body>
+<div class="header">
+
+    <div class="container">
+
+        <div class="logo">
+            <h1 ><img src="images/0.jpg" width="40" height="40" class="img-head" alt="">&nbsp;&nbsp;&nbsp;&nbsp;</a><font color="green">Donation</font><font color="#ffd700"> Connection</font><span>Hands For Hands</span></a><hr><hr></h1>
+
+            <div class="nav-top">
+                <nav class="navbar navbar-default">
+
+                    <div class="collapse navbar-collapse" id="bs-megadropdown-tabs">
+                        <ul class="nav navbar-nav ">
+                            <li ><a href="index.html" class="hyper "><span>Home</span></a></li>
+                            <li ><a href="product.html" class="hyper "><span>Products</span></a></li>
+                            <li ><a href="free services.html" class="hyper "><span>Voluntary works</span></a></li>
+                            <li ><a href="free services.html" class="hyper "><span>Free Services</span></a></li>
+                            <li ><a href="charites.html" class="hyper "><span>Charities</span></a></li>
+                            <li ><a href="contact.html" class="hyper "><span>Contact Us</span></a></li>
+                            <li  class="dropdown active">
+                        </ul>
+                    </div>
+                </nav>
+                <div class="card">
+                    <ul class="cart">
+
+                        <a href="login.html" ><i class="fa fa-user" aria-hidden="true"></i>Login &nbsp;&nbsp;</a>
+                        <span class="fa fa-shopping-cart my-cart-icon"><span class="badge badge-notify my-cart-badge"></span></span><ul>
+                    </ul>
+                </div>
+
+                <div class="clearfix"></div>
+
+            </div>
+
+        </div>
+    </div>
+    <!-- Carousel
+    ================================================== -->
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+      </ol>
+      <div class="carousel-inner" role="listbox">
+        <div class="item active">
+          <a><img class="first-slide" src="images/1slide.jpg" alt="First slide"></a>
+       
+        </div>
+        <div class="item">
+        <a><img class="second-slide " src="images/2slide.jpg" alt="Second slide"></a>
+         
+        </div>
+        <div class="item">
+          <a><img class="third-slide " src="images/3slide.jpg" alt="Third slide"></a>
+          
+        </div>
+      </div>
+    
+    </div><!-- /.carousel -->
+
+<!--content-->
+<div class="kic-top ">
+	<div class="container ">
+	<div class="kic ">
+			
+		</div>
+
+	</div>
+</div>
+
+<!--content-->
+		<div class="product">
+		<div class="container">
+			<div class="spec ">
+				<h3>free services</h3>
+				<div class="ser-t">
+					<b></b>
+					<span><i></i></span>
+					<b class="line"></b>
+				</div>
+			</div>
+				<div class=" con-w3l agileinf">
+							<div class="col-md-3 pro-1">
+								<div class="col-m">
+								<a href="#" data-toggle="modal" data-target="#myModal1" class="offer-img">
+										<img src="images/Caring%20for%20elderly%20people1.jpg" class="img-responsive" alt="">
+									</a>
+									<div class="mid-1">
+										<div class="women">
+											<h6>Caring for elderly people</h6>
+										</div>
+										<div class="mid-2">
+
+											<div class="clearfix"></div>
+										</div>
+											<div class="add">
+										   <button class="btn btn-danger my-cart-btn my-cart-b" data-id="36" data-name="Caring for elderly people" data-summary="summary 36"  data-quantity="1" data-image="images/Caring%20for%20elderly%20people1.jpg">Request</button>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-3 pro-1">
+								<div class="col-m">
+									<a href="#" data-toggle="modal" data-target="#myModal2" class="offer-img">
+										<img src="images/Catering1.jpg" class="img-responsive" alt="">
+									</a>
+									<div class="mid-1">
+										<div class="women">
+											<h6>Catering at charity meetings</h6>
+										</div>
+										<div class="mid-2">
+											<div class="clearfix"></div>
+										</div>
+											<div class="add">
+										   <button class="btn btn-danger my-cart-btn my-cart-b" data-id="37" data-name="Catering at charity meetings" data-summary="summary 37" data-quantity="1" data-image="images/Catering1.jpg">Request</button>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-3 pro-1">
+								<div class="col-m">
+									<a href="#" data-toggle="modal" data-target="#myModal3" class="offer-img">
+										<img src="images/Electronic%20Services1.jpg" class="img-responsive" alt="">
+									</a>
+									<div class="mid-1">
+										<div class="women">
+											<h6>Electronic Services(ES)</h6>
+										</div>
+										<div class="mid-2">
+											  <div class="block">
+											</div>
+											<div class="clearfix"></div>
+										</div>
+											<div class="add">
+										   <button class="btn btn-danger my-cart-btn my-cart-b" data-id="38" data-name="Electronic Services" data-summary="summary 38" data-price="3.50" data-quantity="1" data-image="images/of38.png">Request</button>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-3 pro-1">
+								<div class="col-m">
+									<a href="#" data-toggle="modal" data-target="#myModal4" class="offer-img">
+										<img src="images/Free%20courier1.jpg" class="img-responsive" alt="">
+									</a>
+									<div class="mid-1">
+										<div class="women">
+											<h6>Free courier(bike delivery)</h6>
+										</div>
+										<div class="mid-2">
+
+											  <div class="block">
+											</div>
+											<div class="clearfix"></div>
+										</div>
+											<div class="add">
+										   <button class="btn btn-danger my-cart-btn my-cart-b" data-id="39" data-name="Free courier" data-summary="summary 39" data-quantity="1" data-image="images/Free%20courier1.jpg">Request</button>
+										</div>
+									</div>
+								</div>
+							</div>
+							
+							<div class="col-md-3 pro-1">
+								<div class="col-m">
+								<a href="#" data-toggle="modal" data-target="#myModal5" class="offer-img">
+										<img src="images/Free%20Education1.jpg" class="img-responsive" alt="">
+									</a>
+									<div class="mid-1">
+										<div class="women">
+											<h6>Free Education(At all levels)</h6>
+										</div>
+										<div class="mid-2">
+											  <div class="block">
+											</div>
+											<div class="clearfix"></div>
+										</div>
+											<div class="add">
+										   <button class="btn btn-danger my-cart-btn my-cart-b" data-id="40" data-name="Free Education" data-summary="summary 40" data-quantity="1" data-image="images/Free%20Education1.jpg">Request</button>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-3 pro-1">
+								<div class="col-m">
+									<a href="#" data-toggle="modal" data-target="#myModal6" class="offer-img">
+										<img src="images/Free%20hairdresser1.jpg" class="img-responsive" alt="">
+									</a>
+									<div class="mid-1">
+										<div class="women">
+											<h6>Free hairdresser(makeup)</h6>
+										</div>
+										<div class="mid-2">
+											  <div class="block">
+											</div>
+											<div class="clearfix"></div>
+										</div>
+											<div class="add">
+										   <button class="btn btn-danger my-cart-btn my-cart-b" data-id="41" data-name="Free hairdresser" data-summary="summary 41" data-quantity="1" data-image="images/Free%20hairdresser1.jpg">Request</button>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-3 pro-1">
+								<div class="col-m">
+									<a href="#" data-toggle="modal" data-target="#myModal7" class="offer-img">
+										<img src="images/Free%20repair1.jpg" class="img-responsive" alt="">
+									</a>
+									<div class="mid-1">
+										<div class="women">
+											<h6>Free repair(Possibilities)</h6>
+										</div>
+										<div class="mid-2">
+											  <div class="block">
+											</div>
+											<div class="clearfix"></div>
+										</div>
+											<div class="add">
+										   <button class="btn btn-danger my-cart-btn my-cart-b" data-id="42" data-name="Free repair" data-summary="summary 42" data-price="3.50" data-quantity="1" data-image="images/Free%20repair1.jpg">Request</button>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-3 pro-1">
+								<div class="col-m">
+									<a href="#" data-toggle="modal" data-target="#myModal8" class="offer-img">
+										<img src="images/Nursing%20a%20child1.jpg" class="img-responsive" alt="">
+									</a>
+									<div class="mid-1">
+										<div class="women">
+											<h6>Nursing a child(baby sitter)</h6>
+										</div>
+										<div class="mid-2">
+											  <div class="block">
+											</div>
+											<div class="clearfix"></div>
+										</div>
+											<div class="add">
+										   <button class="btn btn-danger my-cart-btn my-cart-b" data-id="43" data-name="Nursing a child" data-summary="summary 43" data-quantity="1" data-image="images/Nursing%20a%20child1.jpg">Request</button>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							</div>
+
+							<div class="clearfix"></div>
+						 </div>
+		</div>
+	</div>
