@@ -1,0 +1,339 @@
+<!--content-->
+		<div class="product">
+		<div class="container">
+			<div class="spec ">
+				<h3>"Products"</h3>
+				<div class="ser-t">
+					<b></b>
+					<span><i></i></span>
+					<b class="line"></b>
+				</div>
+			</div>
+
+				<div class=" con-w3l agileinf">
+							<div class="col-md-3 pro-1">
+								<div class="col-m">
+								<a href="#" data-toggle="modal" data-target="#myModal1" class="offer-img">
+										<img src="images/4m.PNG" class="img-responsive" alt="">
+									</a>
+									<div class="mid-1">
+										<div class="women">
+											<h6>Wooden necklace</a></h6>
+										</div>
+										<div class="mid-2">
+
+											<div class="clearfix"></div>
+										</div>
+											<div class="add">
+										   <button class="btn btn-danger my-cart-btn my-cart-b"  data-name="Wooden necklace"  data-image="images/4m.png">Add to Cart</button>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-3 pro-1">
+								<div class="col-m">
+									<a href="#" data-toggle="modal" data-target="#myModal2" class="offer-img">
+										<img src="images/7m.png" class="img-responsive" alt="">
+									</a>
+									<div class="mid-1">
+										<div class="women">
+											<h6>Monstor pencilcase</a></h6>
+										</div>
+										<div class="mid-2">
+											<div class="clearfix">
+                                            </div>
+										</div>
+											<div class="add">
+										   <button class="btn btn-danger my-cart-btn my-cart-b" data-id="25" data-name="Monstor pencilcase" data-summary="summary 25" data-price="4.50" data-quantity="1" data-image="images/7m.png">Add to Cart</button>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-3 pro-1">
+								<div class="col-m">
+									<a href="#" data-toggle="modal" data-target="#myModal3" class="offer-img">
+										<img src="images/17m.png" class="img-responsive" alt="">
+									</a>
+									<div class="mid-1">
+										<div class="women">
+											<h6>Bracelet</a</h6>
+										</div>
+										<div class="mid-2">
+
+											  <div class="block">
+
+											</div>
+											<div class="clearfix"></div>
+										</div>
+											<div class="add">
+										   <button class="btn btn-danger my-cart-btn my-cart-b" data-id="26" data-name="Bracelet" data-summary="summary 26" data-price="3.50" data-quantity="1" data-image="images/17m.png">Add to Cart</button>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-3 pro-1">
+								<div class="col-m">
+									<a href="#" data-toggle="modal" data-target="#myModal4" class="offer-img">
+										<img src="images/5cc.png" class="img-responsive" alt="">
+									</a>
+									<div class="mid-1">
+										<div class="women">
+											<h6>Felt ice cream toys</a></h6>
+										</div>
+										<div class="mid-2">
+											  <div class="block">
+
+											</div>
+											<div class="clearfix"></div>
+										</div>
+											<div class="add">
+										   <button class="btn btn-danger my-cart-btn my-cart-b" data-id="27" data-name="Felt ice cream toys" data-summary="summary 27" data-price="0.80" data-quantity="1" data-image="images/5cc.png">Add to Cart</button>
+										</div>
+									</div>
+								</div>
+							</div>
+							
+							<div class="col-md-3 pro-1">
+								<div class="col-m">
+								<a href="#" data-toggle="modal" data-target="#myModal5" class="offer-img">
+										<img src="images/6c.png" class="img-responsive" alt="">
+									</a>
+									<div class="mid-1">
+										<div class="women">
+											<h6>Felt bag</a></h6>
+										</div>
+										<div class="mid-2">
+
+											  <div class="block">
+
+											</div>
+											<div class="clearfix"></div>
+										</div>
+											<div class="add">
+										   <button class="btn btn-danger my-cart-btn my-cart-b" data-id="28" data-name="Felt bag" data-summary="summary 28" data-price="6.00" data-quantity="1" data-image="images/6cc.png">Add to Cart</button>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-3 pro-1">
+								<div class="col-m">
+									<a href="#" data-toggle="modal" data-target="#myModal6" class="offer-img">
+										<img src="images/9c.png" class="img-responsive" alt="">
+									</a>
+									<div class="mid-1">
+										<div class="women">
+											<h6>Wicker bag</a></h6>
+										</div>
+										<div class="mid-2">
+
+											  <div class="block">
+
+											</div>
+											<div class="clearfix"></div>
+										</div>
+											<div class="add">
+										   <button class="btn btn-danger my-cart-btn my-cart-b" data-id="29" data-name="Wicker bag" data-summary="summary 29" data-price="4.50" data-quantity="1" data-image="images/9c.png">Add to Cart</button>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-3 pro-1">
+								<div class="col-m">
+									<a href="#" data-toggle="modal" data-target="#myModal7" class="offer-img">
+										<img src="images/11c.png" class="img-responsive" alt="">
+									</a>
+									<div class="mid-1">
+										<div class="women">
+											<h6>Wicker bag</a></h6>
+										</div>
+										<div class="mid-2">
+
+											  <div class="block">
+
+											</div>
+											<div class="clearfix"></div>
+										</div>
+											<div class="add">
+										   <button class="btn btn-danger my-cart-btn my-cart-b" data-id="30" data-name="Wicker bag" data-summary="summary 30" data-price="3.50" data-quantity="1" data-image="images/11c.png">Add to Cart</button>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-3 pro-1">
+								<div class="col-m">
+									<a href="#" data-toggle="modal" data-target="#myModal8" class="offer-img">
+										<img src="images/13c.png" class="img-responsive" alt="">
+									</a>
+									<div class="mid-1">
+										<div class="women">
+											<h6>Bracelet</a>(500 g)</h6>
+										</div>
+										<div class="mid-2">
+
+											  <div class="block">
+
+											</div>
+											<div class="clearfix"></div>
+										</div>
+											<div class="add">
+										   <button class="btn btn-danger my-cart-btn my-cart-b" data-id="31" data-name="Bracelet" data-summary="summary 31" data-price="0.80" data-quantity="1" data-image="images/13c.png">Add to Cart</button>
+										</div>
+									</div>
+								</div>
+							</div>
+								<div class="col-md-3 pro-1">
+								<div class="col-m">
+								<a href="#" data-toggle="modal" data-target="#myModal9" class="offer-img">
+										<img src="images/39c.jpg" class="img-responsive" alt="">
+									</a>
+									<div class="mid-1">
+										<div class="women">
+											<h6>Handmade doll</a>(500 g)</h6>
+										</div>
+										<div class="mid-2">
+
+											  <div class="block">
+
+											</div>
+											<div class="clearfix"></div>
+										</div>
+											<div class="add">
+										   <button class="btn btn-danger my-cart-btn my-cart-b" data-id="32" data-name="Handmade doll" data-summary="summary 32" data-price="6.00" data-quantity="1" data-image="images/39c.jpg">Add to Cart</button>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-3 pro-1">
+								<div class="col-m">
+									<a href="#" data-toggle="modal" data-target="#myModal10" class="offer-img">
+										<img src="images/3c.png" class="img-responsive" alt="">
+									</a>
+									<div class="mid-1">
+										<div class="women">
+											<h6>Wooden necklace</a></h6>
+										</div>
+										<div class="mid-2">
+
+											  <div class="block">
+
+											</div>
+											<div class="clearfix"></div>
+										</div>
+											<div class="add">
+										   <button class="btn btn-danger my-cart-btn my-cart-b" data-id="33" data-name="Wooden necklace" data-summary="summary 33" data-price="4.50" data-quantity="1" data-image="images/3c.png">Add to Cart</button>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-3 pro-1">
+								<div class="col-m">
+									<a href="#" data-toggle="modal" data-target="#myModal11" class="offer-img">
+										<img src="images/15c.png" class="img-responsive" alt="">
+									</a>
+									<div class="mid-1">
+										<div class="women">
+											<h6>Stone bracelet</a></h6>
+										</div>
+										<div class="mid-2">
+
+											  <div class="block">
+
+											</div>
+											<div class="clearfix"></div>
+										</div>
+											<div class="add">
+										   <button class="btn btn-danger my-cart-btn my-cart-b" data-id="34" data-name="Stone bracelet" data-summary="summary 34" data-price="3.50" data-quantity="1" data-image="images/15c.png">Add to Cart</button>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-3 pro-1">
+								<div class="col-m">
+									<a href="#" data-toggle="modal" data-target="#myModal12" class="offer-img">
+										<img src="images/24c.png" class="img-responsive" alt="">
+									</a>
+									<div class="mid-1">
+										<div class="women">
+											<h6>Leather wallet</a></h6>
+										</div>
+										<div class="mid-2">
+
+											  <div class="block">
+
+											</div>
+											<div class="clearfix"></div>
+										</div>
+											<div class="add">
+										   <button class="btn btn-danger my-cart-btn my-cart-b" data-id="35" data-name="Leather wallet"  data-price="0.80"  data-image="images/24c.png">Add to Cart</button>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="clearfix"></div>
+                </div>
+		</div>
+	</div>
+
+<!-- smooth scrolling -->
+	<script type="text/javascript">
+		$(document).ready(function() {
+		/*
+			var defaults = {
+			containerID: 'toTop', // fading element id
+			containerHoverID: 'toTopHover', // fading element hover id
+			scrollSpeed: 1200,
+			easingType: 'linear' 
+			};
+		*/								
+		$().UItoTop({ easingType: 'easeOutQuart' });
+		});
+	</script>
+	<a href="#" id="toTop" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
+<!-- //smooth scrolling -->
+<!-- for bootstrap working -->
+		<script src="js/bootstrap.js"></script>
+<!-- //for bootstrap working -->
+<script type='text/javascript' src="js/jquery.mycart.js"></script>
+  <script type="text/javascript">
+  $(function () {
+
+    var goToCartIcon = function($addTocartBtn){
+      var $cartIcon = $(".my-cart-icon");
+      var $image = $('<img width="30px" height="30px" src="' + $addTocartBtn.data("image") + '"/>').css({"position": "fixed", "z-index": "999"});
+      $addTocartBtn.prepend($image);
+      var position = $cartIcon.position();
+      $image.animate({
+        top: position.top,
+        left: position.left
+      }, 500 , "linear", function() {
+        $image.remove();
+      });
+    }
+
+    $('.my-cart-btn').myCart({
+      classCartIcon: 'my-cart-icon',
+      classCartBadge: 'my-cart-badge',
+      affixCartIcon: true,
+      checkoutCart: function(products) {
+        $.each(products, function(){
+          console.log(this);
+        });
+      },
+      clickOnAddToCart: function($addTocart){
+        goToCartIcon($addTocart);
+      },
+      getDiscountPrice: function(products) {
+        var total = 0;
+        $.each(products, function(){
+          total += this.quantity * this.price;
+        });
+        return total * 1;
+      }
+    });
+
+  });
+  </script>
+
+  
+  
+  
