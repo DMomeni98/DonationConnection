@@ -1,0 +1,399 @@
+ <!-- product -->
+<!--
+<script/>
+	function selectedproduct(name,id,price,image) {
+	var product={
+	id:id,
+	startTime:start,
+	origin:origin,
+	destination:destination,
+
+	};
+	localStorage.setItem("selectedTrip",JSON.stringify(trip));
+	window.location = "RequestTrip.html";
+
+	}
+	function showingprofile(suggestion product){
+	for (var i in suggestionproduct) {
+	console.log(i);
+	var product = suggestionproduct.id;
+	document.getElementById("single-package").innerHTML +=<div class="searchResults" "><label>${id}</label><label>${suggestionproduct.name}</label><label>${suggestionproduct.price}</label><label>${suggestionproduct.image}</label><button class="btn-block"
+																																																											 onclick="selectedproduct('${id}','${suggestionproduct.name}','${suggestionproduct.price}','${suggestionproduct.image}')">select</button></div>`;
+}
+	</script>
+	-->
+
+	<div class="modal fade" id="myModal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				<div class="modal-dialog" role="document">
+					<div class="modal-content modal-info">
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>						
+						</div>
+						<div class="modal-body modal-spa">
+								<div class="col-md-5 span-2">
+											<div class="item">
+												<img src="images/woodcir.png" class="img-responsive" alt="">
+											</div>
+								</div>
+								<div class="col-md-7 span-1 ">
+									<h3>Wooden necklace</h3>
+									<div class="price_single">
+									  <span class="reducedfrom ">20000T</span>
+									
+									 <div class="clearfix"></div>
+									</div>
+									<h4 class="quick">product introduction</h4>
+									<p class="quick_desc"> A wooden necklace and a lightweight cut to suit all tastes.</p>
+									 <div class="add-to">
+										   <button class="btn btn-danger my-cart-btn my-cart-btn1 " data-id="24" data-name="Wooden necklace" data-summary="summary 24" data-price="20000T" data-quantity="1" data-image="images/woodcir.png">Add to Cart</button>
+										</div>
+								</div>
+								<div class="clearfix"> </div>
+							</div>
+						</div>
+					</div>
+				</div>
+<!-- product -->
+			<div class="modal fade" id="myModal2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				<div class="modal-dialog" role="document">
+					<div class="modal-content modal-info">
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>						
+						</div>
+						<div class="modal-body modal-spa">
+								<div class="col-md-5 span-2">
+											<div class="item">
+												<img src="images/hai.png" class="img-responsive" alt="">
+											</div>
+								</div>
+								<div class="col-md-7 span-1 ">
+									<h3>Monstor pencilcase</h3>
+									<div class="price_single">
+									  <span class="reducedfrom ">15000T</span>
+									
+									 <div class="clearfix"></div>
+									</div>
+									<h4 class="quick">product introduction</h4>
+									<p class="quick_desc">The monster pencil bag is a spacious and thoughtfully designed bag that has been considered for its color.</p>
+									 <div class="add-to">
+										   <button class="btn btn-danger my-cart-btn my-cart-btn1 " data-id="25" data-name="Monstor pencilcase" data-summary="summary 25" data-price="15000T" data-quantity="1" data-image="images/hai.png">Add to Cart</button>
+										</div>
+								</div>
+								<div class="clearfix"> </div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- product -->
+			<div class="modal fade" id="myModal3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				<div class="modal-dialog" role="document">
+					<div class="modal-content modal-info">
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>						
+						</div>
+						<div class="modal-body modal-spa">
+								<div class="col-md-5 span-2">
+											<div class="item">
+												<img src="images/bracelet.png" class="img-responsive" alt="">
+											</div>
+								</div>
+								<div class="col-md-7 span-1 ">
+									<h3>bracelet</h3>
+									<div class="price_single">
+									  <span class="reducedfrom ">12000T</span>
+									
+									 <div class="clearfix"></div>
+									</div>
+									<h4 class="quick">product introduction</h4>
+									<p class="quick_desc">Handmade bracelet, which is a combination of natural and synthetic leather and can be resized; so it is a pre-use for all people.</p>
+									 <div class="add-to">
+										   <button class="btn btn-danger my-cart-btn my-cart-btn1 " data-id="26" data-name="bracelet" data-summary="summary 26" data-price="12000T" data-quantity="1" data-image="images/bracelet.png">Add to Cart</button>
+										</div>
+								</div>
+								<div class="clearfix"> </div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- product -->
+			<div class="modal fade" id="myModal4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				<div class="modal-dialog" role="document">
+					<div class="modal-content modal-info">
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>						
+						</div>
+						<div class="modal-body modal-spa">
+								<div class="col-md-5 span-2">
+											<div class="item">
+												<img src="images/felt%20ice%20cream%20toys.png" class="img-responsive" alt="">
+											</div>
+								</div>
+								<div class="col-md-7 span-1 ">
+									<h3>felt ice cream</h3>
+									<div class="price_single">
+									  <span class="reducedfrom ">5000T</span>
+									
+									 <div class="clearfix"></div>
+									</div>
+									<h4 class="quick">product introduction</h4>
+									<p class="quick_desc"> Molds that come in many forms and are the best choice as toys.</p>
+									 <div class="add-to">
+										   <button class="btn btn-danger my-cart-btn my-cart-btn1 " data-id="27" data-name="felt ice cream" data-summary="summary 27" data-price="5000T" data-quantity="1" data-image="images/felt%20ice%20cream%20toys.png">Add to Cart</button>
+										</div>
+								</div>
+								<div class="clearfix"> </div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- product -->
+			<div class="modal fade" id="myModal5" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				<div class="modal-dialog" role="document">
+					<div class="modal-content modal-info">
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>						
+						</div>
+						<div class="modal-body modal-spa">
+								<div class="col-md-5 span-2">
+											<div class="item">
+												<img src="images/felt%20bag.png" class="img-responsive" alt="">
+											</div>
+								</div>
+								<div class="col-md-7 span-1 ">
+									<h3>felt bag</h3>
+									<div class="price_single">
+									  <span class="reducedfrom ">8000T</span>
+									
+									 <div class="clearfix"></div>
+									</div>
+									<h4 class="quick">product introduction</h4>
+									<p class="quick_desc">This bag made of felt is very light and according to its gender, it is a good choice as a bag.</p>
+									 <div class="add-to">
+										   <button class="btn btn-danger my-cart-btn my-cart-btn1 " data-id="28" data-name="felt bag" data-summary="summary 28" data-price="8000T" data-quantity="1" data-image="images/felt%20bag.png">Add to Cart</button>
+										</div>
+								</div>
+								<div class="clearfix"> </div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- product -->
+			<div class="modal fade" id="myModal6" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				<div class="modal-dialog" role="document">
+					<div class="modal-content modal-info">
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>						
+						</div>
+						<div class="modal-body modal-spa">
+								<div class="col-md-5 span-2">
+											<div class="item">
+												<img src="images/wicher%20bag.png" class="img-responsive" alt="">
+											</div>
+								</div>
+								<div class="col-md-7 span-1 ">
+									<h3>wicker bag</h3>
+									<div class="price_single">
+									  <span class="reducedfrom ">30000T</span>
+
+									 <div class="clearfix"></div>
+									</div>
+									<h4 class="quick">product introduction</h4>
+									<p class="quick_desc">A medium sized wicker bag and fairly long stitches that are very suitable for everyday use.</p>
+									 <div class="add-to">
+										   <button class="btn btn-danger my-cart-btn my-cart-btn1 " data-id="29" data-name="wicker bag" data-summary="summary 29" data-price="30000T" data-quantity="1" data-image="images/wicher%20bag.png">Add to Cart</button>
+										</div>
+								</div>
+								<div class="clearfix"> </div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- product -->
+			<div class="modal fade" id="myModal7" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				<div class="modal-dialog" role="document">
+					<div class="modal-content modal-info">
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>						
+						</div>
+						<div class="modal-body modal-spa">
+								<div class="col-md-5 span-2">
+											<div class="item">
+												<img src="images/wickerbag.png" class="img-responsive" alt="">
+											</div>
+								</div>
+								<div class="col-md-7 span-1 ">
+									<h3>wicker bag</h3>
+									<div class="price_single">
+									  <span class="reducedfrom ">35000T</span>
+									
+									 <div class="clearfix"></div>
+									</div>
+									<h4 class="quick">product introduction</h4>
+									<p class="quick_desc"> A medium sized wicker bag and fairly long stitches that are very suitable for everyday use.</p>
+									 <div class="add-to">
+										   <button class="btn btn-danger my-cart-btn my-cart-btn1 " data-id="30" data-name="wicker bag" data-summary="summary 30" data-price="35000T" data-quantity="1" data-image="images/wickerbag.png">Add to Cart</button>
+										</div>
+								</div>
+								<div class="clearfix"> </div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- product -->
+			<div class="modal fade" id="myModal8" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				<div class="modal-dialog" role="document">
+					<div class="modal-content modal-info">
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>						
+						</div>
+						<div class="modal-body modal-spa">
+								<div class="col-md-5 span-2">
+											<div class="item">
+												<img src="images/infinite%20bracelet.png" class="img-responsive" alt="">
+											</div>
+								</div>
+								<div class="col-md-7 span-1 ">
+									<h3>bracelet</h3>
+									<div class="price_single">
+									  <span class="reducedfrom ">12000T</span>
+									
+									 <div class="clearfix"></div>
+									</div>
+									<h4 class="quick">product introduction</h4>
+									<p class="quick_desc"> Handmade bracelet, which is a combination of natural and synthetic leather and can be resized; so it is a pre-use for all people.</p>
+									 <div class="add-to">
+										   <button class="btn btn-danger my-cart-btn my-cart-btn1 " data-id="31" data-name="bracelet" data-summary="summary 31" data-price="12000T" data-quantity="1" data-image="images/infinite%20bracelet.png">Add to Cart</button>
+										</div>
+								</div>
+								<div class="clearfix"> </div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- product -->
+			<div class="modal fade" id="myModal9" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				<div class="modal-dialog" role="document">
+					<div class="modal-content modal-info">
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>						
+						</div>
+						<div class="modal-body modal-spa">
+								<div class="col-md-5 span-2">
+											<div class="item">
+												<img src="images/tennis.jpg" class="img-responsive" alt="">
+											</div>
+								</div>
+								<div class="col-md-7 span-1 ">
+									<h3>handmade doll</h3>
+									<div class="price_single">
+									  <span class="reducedfrom ">45000T</span>
+									
+									 <div class="clearfix"></div>
+									</div>
+									<h4 class="quick">product introduction</h4>
+									<p class="quick_desc">Handmade dolls with the best quality fresh ingredients and design</p>
+									 <div class="add-to">
+										   <button class="btn btn-danger my-cart-btn my-cart-btn1 " data-id="32" data-name="handmade doll" data-summary="summary 32" data-price="45000T" data-quantity="1" data-image="images/tennis.jpg">Add to Cart</button>
+										</div>
+								</div>
+								<div class="clearfix"> </div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- product -->
+			<div class="modal fade" id="myModal10" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				<div class="modal-dialog" role="document">
+					<div class="modal-content modal-info">
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>						
+						</div>
+						<div class="modal-body modal-spa">
+								<div class="col-md-5 span-2">
+											<div class="item">
+												<img src="images/wood.png" class="img-responsive" alt="">
+											</div>
+								</div>
+								<div class="col-md-7 span-1 ">
+								<h3>Wooden necklace</h3>
+									<div class="price_single">
+									  <span class="reducedfrom ">20000T</span>
+									
+									 <div class="clearfix"></div>
+									</div>
+									<h4 class="quick">product introduction</h4>
+									<p class="quick_desc">A wooden necklace and a lightweight cut to suit all tastes.</p>
+									 <div class="add-to">
+										   <button class="btn btn-danger my-cart-btn my-cart-btn1 " data-id="33" data-name="Wooden necklace" data-summary="summary 33" data-price="20000T" data-quantity="1" data-image="images/wood.png">Add to Cart</button>
+										</div>
+								</div>
+								<div class="clearfix"> </div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- product -->
+			<div class="modal fade" id="myModal11" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				<div class="modal-dialog" role="document">
+					<div class="modal-content modal-info">
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>						
+						</div>
+						<div class="modal-body modal-spa">
+								<div class="col-md-5 span-2">
+											<div class="item">
+												<img src="images/stone.png" class="img-responsive" alt="">
+											</div>
+								</div>
+								<div class="col-md-7 span-1 ">
+								<h3>stone bracelet</h3>
+									<div class="price_single">
+									  <span class="reducedfrom ">20000T</span>
+									
+									 <div class="clearfix"></div>
+									</div>
+									<h4 class="quick">product introduction</h4>
+									<p class="quick_desc"> Handmade bracelet, which is a combination of natural and synthetic leather and can be resized; so it is a pre-use for all people.</p>
+									 <div class="add-to">
+										   <button class="btn btn-danger my-cart-btn my-cart-btn1 " data-id="34" data-name="stone bracelet" data-summary="summary 34" data-price="20000T" data-quantity="1" data-image="images/stone.png">Add to Cart</button>
+										</div>
+								</div>
+								<div class="clearfix"> </div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- product -->
+			<div class="modal fade" id="myModal12" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				<div class="modal-dialog" role="document">
+					<div class="modal-content modal-info">
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>						
+						</div>
+						<div class="modal-body modal-spa">
+								<div class="col-md-5 span-2">
+											<div class="item">
+												<img src="images/Leather%20wallet.png" class="img-responsive" alt="">
+											</div>
+								</div>
+								<div class="col-md-7 span-1 ">
+									<h3>Leather wallet</h3>
+									<div class="price_single">
+									  <span class="reducedfrom ">10000T</span>
+									
+									 <div class="clearfix"></div>
+									</div>
+									<h4 class="quick">product introduction</h4>
+									<p class="quick_desc"> A wallet made of high quality leather and good sewing has made you a great fan.</p>
+									 <div class="add-to">
+										   <button class="btn btn-danger my-cart-btn my-cart-btn1 " data-id="35" data-name="Leather wallet" data-summary="summary 35" data-price="10000T" data-quantity="1" data-image="images/Leather%20wallet.png">Add to Cart</button>
+										</div>
+								</div>
+								<div class="clearfix"> </div>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+</body>
+</html>
