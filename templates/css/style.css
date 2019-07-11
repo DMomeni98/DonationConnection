@@ -288,6 +288,7 @@ img.img-head {
 	width: 35px;
 	z-index: 10;
 }
+
 .icon .fa-twitter {
 	color: #4099ff;
 }
@@ -1181,8 +1182,11 @@ ul.product-qty {
 	padding:6em 0;
 }
 .contact-w3 {
-	padding-top: 3em;
-	
+	padding-bottom : 4em;
+}
+.google-maps iframe{
+	width:1100px;
+	height:300px;
 }
 .contact-left h4{
 	font-size:2em;
