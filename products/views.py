@@ -1,6 +1,7 @@
 from django.shortcuts import render, get_object_or_404
 from .models import Product
 from .forms import ProductForm
+from django.views.generic import TemplateView
 # Create your views here.
 
 
@@ -8,9 +9,8 @@ from .forms import ProductForm
 #     return render(request, "addproduct.html", {})
 # ---------------------------------------------------Temp-------------------------------------------------
 def product_page(request):
-    context = Product.objects.first()
-    list(context)
-    return render(request, "product.html", context)
+        queryset = Product.objects.all()
+        return render(request, "product.html", {"queryset": queryset})
 
 
 def add_product(request):

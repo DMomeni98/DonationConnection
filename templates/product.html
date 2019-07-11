@@ -1,10 +1,11 @@
-{% block body %}
-    <div class="contaier">
-    <h1>Product</h1>
-    <p name : {{ products.name }}></p>
-    <p price : {{ products.price }}></p>
-    <p overview : {{ products.overview }}></p>
-    <p image : {{ products.image }}></p>
-    </div> 
-
-{% endblock %}
+<h1> Products</h1>
+{% block content %}
+{{ queryset }}
+{% for instance in queryset %}
+<p> name:{{ instance.name }}</p>
+<p> price:{{ instance.price }}</p>
+<p> overview: {{ instance.overview }}</p>
+<p>charity: {{ instance.charity }}</p>
+    <img src="{{ instance.picture }}" width="240" alt="not found" >
+{% endfor %}
+{%  endblock %}
